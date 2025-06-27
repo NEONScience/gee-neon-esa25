@@ -35,14 +35,3 @@ This workshop introduces participants to NEON AOP and field datasets through rep
 *Contact*: <https://www.neonscience.org/about/contact-us/>  
 
 ^1^NEON is a project fully funded by the National Science Foundation and operated by Battelle.
-
-
-**ORNL DAAC**
-
-*Organization*: NASA Earthdata Data Center, Oak Ridge National Laboratory Distributed Active Archive Center (ORNL DAAC) 
- 
-*Website*:  <https://www.earthdata.nasa.gov/centers/ornl-daac>  
-
-*Contact*:  
-    NASA Earthdata Forum: <https://forum.earthdata.nasa.gov/>  
-    ORNL DAAC - <uso@daac.ornl.gov> 
