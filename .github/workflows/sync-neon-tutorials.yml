@@ -19,10 +19,12 @@ jobs:
             https://raw.githubusercontent.com/NEONScience/NEON-Data-Skills/main/tutorials/Other/GEE/1-intro-aop-gee-series/1a_intro_aop_gee.md
           curl -L -o tutorials/02_neon_reflectance_weather_qa.md \
             https://raw.githubusercontent.com/NEONScience/NEON-Data-Skills/main/tutorials/Other/GEE/1-intro-aop-gee-series/1b_sdr_weather_qa.md
+          curl -L -o tutorials/03_plot_spectral_signature.md \
+            https://raw.githubusercontent.com/NEONScience/NEON-Data-Skills/main/tutorials/Other/GEE/1-intro-aop-gee-series/1d_plot_refl_spectra.md
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add tutorials/01_intro_to_neon_aop_gee_datasets.md tutorials/02_neon_reflectance_weather_qa.md
+          git add tutorials/01_intro_to_neon_aop_gee_datasets.md tutorials/02_neon_reflectance_weather_qa.md tutorials/03_plot_spectral_signature.md
           git commit -m "Sync selected NEON GEE tutorials from NEON-Data-Skills repository" || echo "No changes to commit"
           git push
