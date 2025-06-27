@@ -45,8 +45,10 @@ website:
           href: setup/setup.md
       - section: "Background"            
         contents: 
-          - text: "NEON Background"
+          - text: "NEON Overview"
             href:  background/neon_background.qmd
+          - text: "Airborne Observation Platform (AOP)"
+            href:  background/aop_background.qmd
       - section: "Tutorials"            
         contents: 
           - text: "1 Introduction to NEON AOP GEE Datasets"
