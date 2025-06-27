@@ -1,13 +1,10 @@
 ---
-title: "NEON Airborne Observation Platform"
+title: "NEON Airborne Observation Platform (AOP)"
 ---
 
-## NEON Airborne Observation Platform (AOP)
-
-![NEON Airborne Remote Sensing](../img/neon_aop_banner.png){ width=750 }
-
-
 ### AOP Payload Sensors
+
+![AOP Payload Sensors](../img/aop_sensors.png){ width=750 }
 
 The AOP consists of three complete and comparable instrument payloads. Typically, two of the payloads are dedicated to collections of the NEON field sites while the third is dedicated to NEON's Research Support services which support externally driven research. The primary sensors on each payload include
 
