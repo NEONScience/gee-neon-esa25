@@ -528,6 +528,17 @@
     ]
   },
   {
+    "objectID": "tutorials/02_neon_reflectance_weather_qa.html#other-qa-considerations",
+    "href": "tutorials/02_neon_reflectance_weather_qa.html#other-qa-considerations",
+    "title": "Reflectance pre-processing: masking out bad weather data in GEE",
+    "section": "Other QA considerations",
+    "text": "Other QA considerations\nThis lesson is intended to give you a quick introduction to some of the QA factors to consider when working with NEON AOP data, and is not meant to be comprehensive. When working with hyperspectral data, there are also invalid and noisy bands that you will likely want to remove before working with the full spectra (these bad bands are not unique to NEON hyperspectral data; for example NASA AVIRIS and EMIT hyperpsectral data have the same limitiations). Please see the lesson Plot spectral signatures of AOP Reflectance data in GEE for more details on these “bad bands”. The Algorithm Theoretical Basis Documents (ATBDs) for the directional and bidirectional reflectance datasets, linked from the NEON Data Product Pages (DP3.30006.001, DP3.30006.002) and from the Quick Start Guides linked in the descriptions in the NEON Publisher Datasets pages on GEE, provide more comprehensive details on how these data products were derived and additional QA factors to consider. When pairing NEON data with satellite data, you will also need to factor in differences in how the datasets were processed, such as the atmospheric correction algorithm used, and other corrections that may or may not be applied (e.g. BRDF and topographic corrections) to both/all datasets you are integrating. If you can’t find the information you need in the documentation, please reach out to NEON scientists using the NEON Contact Us form with any questions.",
+    "crumbs": [
+      "Tutorials",
+      "2 Reflectance Weather and QA Considerations"
+    ]
+  },
+  {
     "objectID": "tutorials/02_neon_reflectance_weather_qa.html#recap",
     "href": "tutorials/02_neon_reflectance_weather_qa.html#recap",
     "title": "Reflectance pre-processing: masking out bad weather data in GEE",
