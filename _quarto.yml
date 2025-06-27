@@ -55,6 +55,8 @@ website:
             href: tutorials/01_intro_to_neon_aop_gee_datasets.md
           - text: "2 Reflectance Weather and QA Considerations"
             href: tutorials/02_neon_reflectance_weather_qa.md
+          - text: "3 Plotting Spectral Signatures"
+            href: tutorials/03_plot_spectral_signature.md
       - section: "Contributing"
         contents:
           # - href: CONTRIBUTING.md

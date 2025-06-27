@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://NEONScience.github.io/gee-neon-esa25/tutorials/02_neon_reflectance_weather_qa.html</loc>
-    <lastmod>2025-06-27T14:44:01.901Z</lastmod>
+    <loc>https://NEONScience.github.io/gee-neon-esa25/tutorials/03_plot_spectral_signature.html</loc>
+    <lastmod>2025-06-27T16:06:00.256Z</lastmod>
   </url>
   <url>
-    <loc>https://NEONScience.github.io/gee-neon-esa25/setup/setup.html</loc>
-    <lastmod>2025-06-27T00:40:31.129Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NEONScience.github.io/gee-neon-esa25/neon-aop-gee.html</loc>
-    <lastmod>2025-06-27T00:30:24.978Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NEONScience.github.io/gee-neon-esa25/CODE_OF_CONDUCT.html</loc>
-    <lastmod>2025-02-12T03:14:41.237Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NEONScience.github.io/gee-neon-esa25/background/aop_background.html</loc>
-    <lastmod>2025-06-27T00:48:40.415Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NEONScience.github.io/gee-neon-esa25/background/neon_background.html</loc>
-    <lastmod>2025-06-27T00:56:42.302Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NEONScience.github.io/gee-neon-esa25/index.html</loc>
-    <lastmod>2025-06-27T00:38:01.867Z</lastmod>
+    <loc>https://NEONScience.github.io/gee-neon-esa25/tutorials/01_intro_to_neon_aop_gee_datasets.html</loc>
+    <lastmod>2025-06-27T16:06:00.256Z</lastmod>
   </url>
   <url>
     <loc>https://NEONScience.github.io/gee-neon-esa25/setup/prerequisites.html</loc>
     <lastmod>2025-06-27T00:38:17.020Z</lastmod>
   </url>
   <url>
-    <loc>https://NEONScience.github.io/gee-neon-esa25/tutorials/01_intro_to_neon_aop_gee_datasets.html</loc>
-    <lastmod>2025-06-27T14:57:07.949Z</lastmod>
+    <loc>https://NEONScience.github.io/gee-neon-esa25/index.html</loc>
+    <lastmod>2025-06-27T00:38:01.867Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NEONScience.github.io/gee-neon-esa25/background/neon_background.html</loc>
+    <lastmod>2025-06-27T00:56:42.302Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NEONScience.github.io/gee-neon-esa25/background/aop_background.html</loc>
+    <lastmod>2025-06-27T00:48:40.415Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NEONScience.github.io/gee-neon-esa25/CODE_OF_CONDUCT.html</loc>
+    <lastmod>2025-02-12T03:14:41.237Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NEONScience.github.io/gee-neon-esa25/neon-aop-gee.html</loc>
+    <lastmod>2025-06-27T00:30:24.978Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NEONScience.github.io/gee-neon-esa25/setup/setup.html</loc>
+    <lastmod>2025-06-27T00:40:31.129Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NEONScience.github.io/gee-neon-esa25/tutorials/02_neon_reflectance_weather_qa.html</loc>
+    <lastmod>2025-06-27T14:44:01.901Z</lastmod>
   </url>
 </urlset>
