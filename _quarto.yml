@@ -1,0 +1,71 @@
+project:
+  type: website
+  output-dir: docs
+
+execute:
+  freeze: true  # never re-execute computational content during project render, needed for .qmd and .rmd since quarto does not render .ipynb by default
+
+website:
+  page-navigation: true
+  page-footer: 
+    center: "Working with NEON Remote Sensing Data in Google Earth Engine - ESA 2025"
+
+  title: "NEON AOP & NASA AVIRIS Airborne and Field Data Workshop"
+  site-url: https://NEONScience.github.io/gee-neon-esa25/
+  repo-url: https://github.com/NEONScience/gee-neon-esa25/
+
+  sidebar:
+    title: "NEON Airborne Remote Sensing in GEE Workshop"
+    logo: img/nsf_neon_blue.png
+    pinned: true
+    align: center
+    tools: 
+      - icon: globe
+        href: https://NEONScience.github.io/gee-neon-esa25/
+        text: "NEON AOP GEE Workshop Website"
+      - icon: github
+        href: https://NEONScience.github.io/gee-neon-esa25/
+        text: "NEON AOP GEE Workshop Repository"
+        
+    style: "floating"
+    search: true
+    collapse-level: 2
+    contents:
+      - section: "Welcome"
+        contents:
+        - text: "2025 ESA Workshop"
+          href: index.qmd
+        - text: "Repository Description"
+          href: neon-aop-gee.qmd
+      - section: "Setup Instructions"
+        contents:
+        - text: "Prerequisites"
+          href: setup/prerequisites.md
+        - text: "Setup"
+          href: setup/setup.md
+      - section: "Background"            
+        contents: 
+          - text: "NEON Background"
+            href:  background/neon_background.qmd
+      - section: "Tutorials"            
+        contents: 
+          - text: "1 Introduction to NEON AOP GEE Datasets"
+            href: tutorials/01_intro_to_neon_aop_gee_datasets.md
+          - text: "2 Reflectance Weather and QA Considerations"
+            href: tutorials/02_neon_reflectance_weather_qa.md
+      - section: "Contributing"
+        contents:
+          # - href: CONTRIBUTING.md
+          - href: CODE_OF_CONDUCT.md
+      # - section: "Additional Resources"
+      #   contents:
+      #     - href: CODE_OF_CONDUCT.md
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: [cosmo,theme-dark.scss]
+    code-background: true
+    code-copy: true
+    css: styles.css
+    toc: true

@@ -1,0 +1,48 @@
+---
+title: "Working with NEON Airborne Remote Sensing Data in Google Earth Engine"
+---
+
+
+The U.S. NSF's  National Ecological Observatory Network (NEON) offers extensive ecological data across various temporal and spatial scales. NEON's Airborne Observation Platform (AOP) captures high-resolution hyperspectral imagery, lidar, and RGB photography at 81 U.S. sites, with data spanning 2-10 years. In 2024, 5 AOP datasets were added to the Google Earth Engine publisher catalog, providing another means of accessing and working with NEON data.
+
+This workshop introduces participants to NEON AOP and field datasets through reproducible live-coding exercises in Google Earth Engine. Attendees will learn about ecological applications using remote sensing data, and will gain a better understanding of quality assurance considerations. The session concludes with demonstrations of workflows that integrate ground-based data for machine learning analyses to generate regional-scale models.
+
+<!--
+<iframe src="https://docs.google.com/presentation/d/1XrdG9P5rLNR8C1TeLpf80YZUCtqdmUev/embed?start=false&loop=false&delayms=3000" frameborder="0" width="750" height="445" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+-->
+
+## Agenda
+
+| Time | Description | Leads/Instructors |  
+|------|---------------------|-------------| 
+|11:45 PM|Introduction|Bridget Hass, Kate Murphy and Sam Roy|  
+|11:50 AM|Overview of NEON Airborne Observation Platform|Bridget Hass and Kate Murphy|  
+|12:05 AM|Setting up Google Earth Engine|Sam Roy|  
+|12:15 PM|Lesson 1: Download and Explore NEON AOP Hyperspectral Data|Bridget Hass|
+|12:35 PM|Lesson 2: Reflectance QA Considerations|Bridget Hass|
+|12:55 PM|Lesson 3: Hyperspectral Classification|Sam Roy|   
+|1:05 PM|Discussion and Wrap Up|All|
+
+
+## Contact Info  
+
+**NEON AOP**
+
+*Organization*: National Ecological Observatory Network Airborne Observation Platform (NEON AOP)^1^  
+
+*Website*: <https://neonscience.org/>  
+
+*Contact*: <https://www.neonscience.org/about/contact-us/>  
+
+^1^NEON is a project fully funded by the National Science Foundation and operated by Battelle.
+
+
+**ORNL DAAC**
+
+*Organization*: NASA Earthdata Data Center, Oak Ridge National Laboratory Distributed Active Archive Center (ORNL DAAC) 
+ 
+*Website*:  <https://www.earthdata.nasa.gov/centers/ornl-daac>  
+
+*Contact*:  
+    NASA Earthdata Forum: <https://forum.earthdata.nasa.gov/>  
+    ORNL DAAC - <uso@daac.ornl.gov> 

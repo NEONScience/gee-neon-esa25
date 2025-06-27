@@ -1,0 +1,31 @@
+---
+title: "NEON Airborne Remote Sensing in GEE Tutorials"
+---
+
+
+Welcome to the **NEON Airborne Remote Sensing in GEE Resources** Repository! This repository provides tutorials to help the community work with AOP raster data products in Google Earth Engine. Data products are generated from NEON AOP's Hypespectral, Lidar, and Camera sensors.
+
+In the interest of open science, this repository has been made public, but is still under active development. Make sure to consult the change log for the most recent changes to the repository. Contributions from all parties are welcome.
+
+---
+
+## Contact Info  
+
+**NEON AOP**
+
+*Organization*: National Ecological Observatory Network Airborne Observation Platform (NEON AOP)^1^  
+
+*Website*: <https://neonscience.org/>  
+
+*Contact*: 
+- <https://www.neonscience.org/about/contact-us/>  
+- <listaopgee@battelleecology.org>  
+
+^1^NEON is a project fully funded by the National Science Foundation and operated by Battelle.
+
+
+**Spatial Bytes**
+
+*Website*: 
+
+*Contact*: 
